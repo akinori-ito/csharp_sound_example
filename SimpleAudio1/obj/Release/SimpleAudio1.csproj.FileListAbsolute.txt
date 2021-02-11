@@ -1,0 +1,11 @@
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\SimpleAudio1.exe.config
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\SimpleAudio1.exe
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\SimpleAudio1.pdb
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\NAudio.dll
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\NWaves.dll
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\bin\Release\NAudio.xml
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\obj\Release\SimpleAudio1.csprojAssemblyReference.cache
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\obj\Release\SimpleAudio1.csproj.CoreCompileInputs.cache
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\obj\Release\SimpleAudio1.csproj.CopyComplete
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\obj\Release\SimpleAudio1.exe
+C:\Users\aito\OneDrive\csharp_sound_example\SimpleAudio1\obj\Release\SimpleAudio1.pdb
